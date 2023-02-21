@@ -1,0 +1,63 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocumentationTesting.Boolean
+  name: DocumentationTesting.Boolean
+  href: api/DocumentationTesting.Boolean.html
+  commentId: N:DocumentationTesting.Boolean
+  fullName: DocumentationTesting.Boolean
+  nameWithType: DocumentationTesting.Boolean
+- uid: DocumentationTesting.Boolean.CoreExtensions
+  name: CoreExtensions
+  href: api/DocumentationTesting.Boolean.CoreExtensions.html
+  commentId: T:DocumentationTesting.Boolean.CoreExtensions
+  fullName: DocumentationTesting.Boolean.CoreExtensions
+  nameWithType: CoreExtensions
+- uid: DocumentationTesting.Boolean.CoreExtensions.IfFalse(System.Boolean,Action)
+  name: IfFalse(Boolean, Action)
+  href: api/DocumentationTesting.Boolean.CoreExtensions.IfFalse.html#DocumentationTesting_Boolean_CoreExtensions_IfFalse_System_Boolean_Action_
+  commentId: M:DocumentationTesting.Boolean.CoreExtensions.IfFalse(System.Boolean,Action)
+  fullName: DocumentationTesting.Boolean.CoreExtensions.IfFalse(System.Boolean, Action)
+  nameWithType: CoreExtensions.IfFalse(Boolean, Action)
+- uid: DocumentationTesting.Boolean.CoreExtensions.IfFalse*
+  name: IfFalse
+  href: api/DocumentationTesting.Boolean.CoreExtensions.IfFalse.html
+  commentId: Overload:DocumentationTesting.Boolean.CoreExtensions.IfFalse
+  fullName: DocumentationTesting.Boolean.CoreExtensions.IfFalse
+  nameWithType: CoreExtensions.IfFalse
+- uid: DocumentationTesting.Boolean.CoreExtensions.IfTrue(System.Boolean,Action)
+  name: IfTrue(Boolean, Action)
+  href: api/DocumentationTesting.Boolean.CoreExtensions.IfTrue.html#DocumentationTesting_Boolean_CoreExtensions_IfTrue_System_Boolean_Action_
+  commentId: M:DocumentationTesting.Boolean.CoreExtensions.IfTrue(System.Boolean,Action)
+  fullName: DocumentationTesting.Boolean.CoreExtensions.IfTrue(System.Boolean, Action)
+  nameWithType: CoreExtensions.IfTrue(Boolean, Action)
+- uid: DocumentationTesting.Boolean.CoreExtensions.IfTrue*
+  name: IfTrue
+  href: api/DocumentationTesting.Boolean.CoreExtensions.IfTrue.html
+  commentId: Overload:DocumentationTesting.Boolean.CoreExtensions.IfTrue
+  fullName: DocumentationTesting.Boolean.CoreExtensions.IfTrue
+  nameWithType: CoreExtensions.IfTrue
+- uid: DocumentationTesting.Boolean.CoreExtensions.ToBinary(System.Boolean)
+  name: ToBinary(Boolean)
+  href: api/DocumentationTesting.Boolean.CoreExtensions.ToBinary.html#DocumentationTesting_Boolean_CoreExtensions_ToBinary_System_Boolean_
+  commentId: M:DocumentationTesting.Boolean.CoreExtensions.ToBinary(System.Boolean)
+  fullName: DocumentationTesting.Boolean.CoreExtensions.ToBinary(System.Boolean)
+  nameWithType: CoreExtensions.ToBinary(Boolean)
+- uid: DocumentationTesting.Boolean.CoreExtensions.ToBinary*
+  name: ToBinary
+  href: api/DocumentationTesting.Boolean.CoreExtensions.ToBinary.html
+  commentId: Overload:DocumentationTesting.Boolean.CoreExtensions.ToBinary
+  fullName: DocumentationTesting.Boolean.CoreExtensions.ToBinary
+  nameWithType: CoreExtensions.ToBinary
+- uid: DocumentationTesting.Boolean.CoreExtensions.ToString(System.Boolean,System.String,System.String)
+  name: ToString(Boolean, String, String)
+  href: api/DocumentationTesting.Boolean.CoreExtensions.ToString.html#DocumentationTesting_Boolean_CoreExtensions_ToString_System_Boolean_System_String_System_String_
+  commentId: M:DocumentationTesting.Boolean.CoreExtensions.ToString(System.Boolean,System.String,System.String)
+  fullName: DocumentationTesting.Boolean.CoreExtensions.ToString(System.Boolean, System.String, System.String)
+  nameWithType: CoreExtensions.ToString(Boolean, String, String)
+- uid: DocumentationTesting.Boolean.CoreExtensions.ToString*
+  name: ToString
+  href: api/DocumentationTesting.Boolean.CoreExtensions.ToString.html
+  commentId: Overload:DocumentationTesting.Boolean.CoreExtensions.ToString
+  fullName: DocumentationTesting.Boolean.CoreExtensions.ToString
+  nameWithType: CoreExtensions.ToString
