@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationTesting", "src\DocumentationTesting\DocumentationTesting.csproj", "{47AD969D-0522-4B07-96A4-2D2FFB97B942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentationTesting", "src\DocumentationTesting\DocumentationTesting.csproj", "{47AD969D-0522-4B07-96A4-2D2FFB97B942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentationTestingTests", "test\DocumentationTestingTests\DocumentationTestingTests.csproj", "{0AF999F0-89EB-4E6B-9988-631C35EFD172}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentationTestingTests", "test\DocumentationTestingTests\DocumentationTestingTests.csproj", "{0AF999F0-89EB-4E6B-9988-631C35EFD172}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86E7A123-9377-444D-BEA8-39213373156B}"
 	ProjectSection(SolutionItems) = preProject
+		docs\docfx.json = docs\docfx.json
 		.github\workflows\docs.yml = .github\workflows\docs.yml
 	EndProjectSection
 EndProject
