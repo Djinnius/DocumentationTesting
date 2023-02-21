@@ -6,11 +6,11 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
-	<Target Name="test" BeforeTargets="BeforeBuild">
+	<!--<Target Name="test" BeforeTargets="BeforeBuild">
 		<Message Text="Test123" />
-	</Target>
+	</Target>-->
 
-	<!-- Prepare memberpage -->
+	<!-- Prepare memberpage --><!--
 	<Target Name="SetNugetPackageRoot">
 		<Message Text="Copying memberpage." Importance="high" />
 		<ItemGroup>
@@ -23,6 +23,6 @@
 
 	<ItemGroup>
 		<PackageReference Include="memberpage.plugins" Version="2.59.4" />
-	</ItemGroup>
+	</ItemGroup>-->
 
 </Project>
