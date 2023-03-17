@@ -1,0 +1,47 @@
+{
+  "api/DocumentationTesting.Boolean.CoreExtensions.html": {
+    "href": "api/DocumentationTesting.Boolean.CoreExtensions.html",
+    "title": "Class CoreExtensions | JD's extensions'",
+    "keywords": "Class CoreExtensions Inheritance System.Object CoreExtensions Inherited Members System.Object.Equals(System.Object) System.Object.Equals(System.Object, System.Object) System.Object.GetHashCode() System.Object.GetType() System.Object.MemberwiseClone() System.Object.ReferenceEquals(System.Object, System.Object) System.Object.ToString() Namespace : DocumentationTesting.Boolean Assembly : DocumentationTesting.dll Syntax public static class CoreExtensions Methods Name Description IfFalse(Boolean, Action) A System.Boolean extension method that executes an action if the value is false . IfTrue(Boolean, Action) A System.Boolean extension method that executes an action if the value is true . ToBinary(Boolean) A System.Boolean extension method that converts this bool into a binary representation. ToString(Boolean, String, String) A System.Boolean extension method that returns the trueValue when the bool value is true; otherwise returns the falseValue ."
+  },
+  "api/DocumentationTesting.Boolean.CoreExtensions.IfFalse.html": {
+    "href": "api/DocumentationTesting.Boolean.CoreExtensions.IfFalse.html",
+    "title": "Method IfFalse | JD's extensions'",
+    "keywords": "Method IfFalse | Improve this Doc View Source IfFalse(Boolean, Action) A System.Boolean extension method that executes an action if the value is false . Declaration public static void IfFalse(this bool bool, Action action) Parameters Type Name Description System.Boolean bool The source bool to act on. Action action The action to execute."
+  },
+  "api/DocumentationTesting.Boolean.CoreExtensions.IfTrue.html": {
+    "href": "api/DocumentationTesting.Boolean.CoreExtensions.IfTrue.html",
+    "title": "Method IfTrue | JD's extensions'",
+    "keywords": "Method IfTrue | Improve this Doc View Source IfTrue(Boolean, Action) A System.Boolean extension method that executes an action if the value is true . Declaration public static void IfTrue(this bool bool, Action action) Parameters Type Name Description System.Boolean bool The source bool to act on. Action action The action to execute."
+  },
+  "api/DocumentationTesting.Boolean.CoreExtensions.ToBinary.html": {
+    "href": "api/DocumentationTesting.Boolean.CoreExtensions.ToBinary.html",
+    "title": "Method ToBinary | JD's extensions'",
+    "keywords": "Method ToBinary | Improve this Doc View Source ToBinary(Boolean) A System.Boolean extension method that converts this bool into a binary representation. Declaration public static byte ToBinary(this bool bool) Parameters Type Name Description System.Boolean bool The source bool to act on. Returns Type Description System.Byte A binary represenation of bool ."
+  },
+  "api/DocumentationTesting.Boolean.CoreExtensions.ToString.html": {
+    "href": "api/DocumentationTesting.Boolean.CoreExtensions.ToString.html",
+    "title": "Method ToString | JD's extensions'",
+    "keywords": "Method ToString | Improve this Doc View Source ToString(Boolean, String, String) A System.Boolean extension method that returns the trueValue when the bool value is true; otherwise returns the falseValue . Declaration public static string ToString(this bool bool, string trueValue, string falseValue) Parameters Type Name Description System.Boolean bool The source bool to act on. System.String trueValue The true value to be returned if the bool value is true. System.String falseValue The false value to be returned if the bool value is false. Returns Type Description System.String A string that represents of the current boolean value."
+  },
+  "api/DocumentationTesting.Boolean.html": {
+    "href": "api/DocumentationTesting.Boolean.html",
+    "title": "Namespace DocumentationTesting.Boolean | JD's extensions'",
+    "keywords": "Namespace DocumentationTesting.Boolean Classes CoreExtensions"
+  },
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "PLACEHOLDER | JD's extensions'",
+    "keywords": "PLACEHOLDER TODO: Add .NET projects to the src folder and run docfx to generate REAL API Documentation !"
+  },
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "Add your introductions here! | JD's extensions'",
+    "keywords": "Add your introductions here!"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | JD's extensions'",
+    "keywords": "This is the HOMEPAGE . Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
