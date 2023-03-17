@@ -16,7 +16,10 @@
   ],
   "build": {
     "globalMetadata": {
-      "_enableSearch": true
+      "_appTitle": "JD's extensions'",
+      "_appName": "JD's Extensions'",
+      "_enableSearch": true,
+      "_enableNewTab": true
     },
     "content": [
       {
@@ -57,11 +60,13 @@
     "fileMetadataFiles": [],
     "template": [
       "default",
-      "templates/singulinkfx",
-      "plugins/memberpage.2.59.0/content",
-      "plugins/memberpage-extras"
+      "templates/memberpage",
+      "plugins/memberpage-extras",
+      "templates/singulinkfx"
+      "plugins/memberpage.2.59.4",
     ],
     "postProcessors": [],
+    "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
     "cleanupCacheHistory": false,

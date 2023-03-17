@@ -6,23 +6,4 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
-	<!--<Target Name="test" BeforeTargets="BeforeBuild">
-		<Message Text="Test123" />
-	</Target>-->
-
-	<!-- Prepare memberpage --><!--
-	<Target Name="SetNugetPackageRoot">
-		<Message Text="Copying memberpage." Importance="high" />
-		<ItemGroup>
-			<memberpageFiles Include="$(NugetPackageRoot)memberpage\2.59.0\**\*.*" />
-		</ItemGroup>
-		<Copy SourceFiles="@(memberPageFiles)"
-			  DestinationFolder="$(ProjectDir)..\..\docs\memberpage.2.59.0\%(RecursiveDir)"
-			  SkipUnchangedFiles="true" />
-	</Target>
-
-	<ItemGroup>
-		<PackageReference Include="memberpage.plugins" Version="2.59.4" />
-	</ItemGroup>-->
-
 </Project>
