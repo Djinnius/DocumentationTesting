@@ -62,8 +62,8 @@
       "default",
       "templates/memberpage",
       "plugins/memberpage-extras",
-      "templates/singulinkfx"
-      "plugins/memberpage.2.59.4",
+      "templates/singulinkfx",
+      "plugins/memberpage.2.59.4"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
